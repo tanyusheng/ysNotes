@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_right_btn_select.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/right_btn_select.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_left_btn.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/left_btn.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_search.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/search.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_round_original.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_round_original.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_line_semicircle.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_line_semicircle.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_help.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/help.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_exclamation.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/exclamation.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_alarm.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/alarm.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_typemanager.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/typemanager.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_icon.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable_shapecircle.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable/shapecircle.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_alarm_yellow.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/alarm_yellow.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_newschedule.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/newschedule.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_button_red.9.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/button_red.9.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_round_click1.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_round_click1.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_back.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_minus2.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/minus2.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_round_click.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_round_click.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_check_left_btn.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/check_left_btn.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_cross2.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/cross2.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_login_activity.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/login_activity.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_rchelp.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/rchelp.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_button_red_pressed.9.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/button_red_pressed.9.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_bg.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/bg.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_note.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/note.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_arrow.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_arrow.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_pattern_success.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/pattern_success.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_about.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/about.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_search.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_customcontent.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/customcontent.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_line_semicircle_error.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_line_semicircle_error.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_content.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/content.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_setpassword_activity.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/setpassword_activity.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_plus1.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/plus1.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_right_btn.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/right_btn.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_rchelp.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/rchelp.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_dialogsetrange.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/dialogsetrange.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_dialog.9.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/dialog.9.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_web.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/web.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_patternindicator_grid_focused.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/patternindicator_grid_focused.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_welcome_bg.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/welcome_bg.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_dukea.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/dukea.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_deleteall.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/deleteall.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_dialogabout.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/dialogabout.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_line.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_line.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_dialogschdelconfirm.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/dialogschdelconfirm.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_pattern_solidline.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/pattern_solidline.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_minus1.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/minus1.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_rcabout.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/rcabout.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_dialogcheck.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/dialogcheck.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_checkbox1.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/checkbox1.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_minus.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/minus.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_searchresult.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/searchresult.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_v5_0_1_comment_divider.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/v5_0_1_comment_divider.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_application_bg_welcome.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/application_bg_welcome.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_plus.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/plus.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_checkbox.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/checkbox.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_drop_down_list_arrow.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/drop_down_list_arrow.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_title.jpg.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/title.jpg"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_check.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/check.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_rcweb.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/rcweb.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_cross.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/cross.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_round_original1.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_round_original1.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_v5_0_1_blog_top_background.9.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/v5_0_1_blog_top_background.9.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_dialogdelpassedconfirm.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/dialogdelpassedconfirm.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_dialogdatetime.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/dialogdatetime.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_edit.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_rcabout.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/rcabout.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_checkbox2.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/checkbox2.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_left_btn_select.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/left_btn_select.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_round_click_error.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_round_click_error.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_locus_line_error.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/locus_line_error.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_newone.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/newone.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_plus2.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/plus2.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/layout_help.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_delete.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_calendar.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/calendar.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_patternindicator_grid_normal.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/patternindicator_grid_normal.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_check_right_btn.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/check_right_btn.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_cross1.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/cross1.png"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-xhdpi_button_selector.xml.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-xhdpi/button_selector.xml"
+    },
+    {
+        "merged": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/drawable-hdpi_dukeb.png.flat",
+        "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/drawable-hdpi/dukeb.png"
+    }
+]

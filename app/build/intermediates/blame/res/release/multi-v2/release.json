@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "779",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    }
+                },
+                {
+                    "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,5,6,4,7,8,9,2",
+                        "startColumns": "1,1,1,1,1,1,1,1",
+                        "startOffsets": "92,179,237,130,293,358,425,54",
+                        "endColumns": "36,37,39,35,42,44,42,36",
+                        "endOffsets": "127,215,275,164,334,401,466,89"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,136,179,218,264,312,358",
+                        "endColumns": "39,40,42,38,45,47,45,39",
+                        "endOffsets": "90,131,174,213,259,307,353,393"
+                    }
+                },
+                {
+                    "source": "/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,12,14,9,13,8,11,4,7,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "93,337,413,260,376,226,301,140,188,55",
+                        "endColumns": "46,38,37,35,36,33,35,37,37,37",
+                        "endOffsets": "135,371,446,291,408,255,332,173,221,88"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "398,445,484,522,558,595,629,665,703,741",
+                        "endColumns": "46,38,37,35,36,33,35,37,37,37",
+                        "endOffsets": "440,479,517,553,590,624,660,698,736,774"
+                    }
+                }
+            ]
+        }
+    ]
+}

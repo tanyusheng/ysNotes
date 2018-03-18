@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/content">
+
+    <TextView
+        android:id="@+id/cctvtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:layout_weight="1"
+        android:text="TextView"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:text="标题" />
+
+    <Button
+        android:id="@+id/ccbtcancer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+
+        android:text="返回" />
+
+    <TextView
+        android:id="@+id/cctvdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/cctvtime"
+        android:layout_below="@+id/cctvtitle"
+        android:layout_marginTop="14dp"
+        android:text="日期"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/cctvtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/cctvdate"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="11dp"
+        android:text="时间"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/cctvcontent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cctvdate"
+        android:layout_marginTop="36dp"
+        android:layout_toRightOf="@+id/ccbtcancer"
+        android:text="内容"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/passedschtext"
+        android:textSize="18sp" />
+
+</RelativeLayout>

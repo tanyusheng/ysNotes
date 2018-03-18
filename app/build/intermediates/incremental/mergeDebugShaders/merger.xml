@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/src/debug/shaders"/></dataSet></merger>

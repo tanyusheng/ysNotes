@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yyrc">已有日程</string>
+    <string name="app_name">ysNote记事本</string>
+    <string name="xjrc">新建日程</string>
+    
+    
+    <string name="xzlx">新增类型</string>
+    <string name="ok">确定</string>
+    <string name="exit">退出</string>
+    
+    <string name="type">类型</string>
+    <string name="beiwang">备忘</string>
+    <string name="huiyi">会议</string>
+    <string name="daiban">待办</string>
+</resources>

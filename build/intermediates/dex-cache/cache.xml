@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/libs/Msc.jar"
+        jumboMode="false"
+        min-sdk-version="7"
+        optimize="true"
+        revision="27.0.3"
+        sha1="53232ff5d59ae2569d1c971f89e025cda9367dc4">
+        <dex dex="/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/libs/Sunflower.jar"
+        jumboMode="false"
+        min-sdk-version="7"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f70fed02b42eb18d2a67bdcf9470ec2d760bf1d">
+        <dex dex="/Users/tanyusheng/AndroidStudioProjects/ysNoteAS/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
